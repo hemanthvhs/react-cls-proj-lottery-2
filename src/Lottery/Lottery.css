@@ -1,0 +1,24 @@
+.Lottery {
+  border: 2px solid black;
+  padding: 20px;
+  width: 50%;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.Lottery .button {
+  border: none;
+  border-radius: 5px;
+  padding: 15px;
+  background-color: orange;
+  color: white;
+  margin-top: 3rem;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.Lottery .button:active,
+.Lottery .button:focus {
+  border: none;
+  outline: none;
+}

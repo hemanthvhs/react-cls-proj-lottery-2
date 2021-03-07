@@ -1,0 +1,4 @@
+Concepts Covered
+
+1. Correcting way of updating the state. - Lottery Component
+2. Default props - Lottery Component
